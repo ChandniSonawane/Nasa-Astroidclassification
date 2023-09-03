@@ -10,6 +10,7 @@ Steps:
 4. Feature engineering 
 5. Splitting the data into train and test
 6. Performance metrics
+
 7.Model building
 
 •	Logistic regression
